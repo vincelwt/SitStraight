@@ -1,2 +1,9 @@
 # SitStraight
-A small menubar notification to remind you to sit straight
+Notifications to remind you to sit straight every 10mins
+
+
+## Install dependencies
+
+```bash
+pip install rumps
+```
